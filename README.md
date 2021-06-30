@@ -33,7 +33,7 @@
   <h3 align="center">Search Engine</h3>
 
   <p align="center">
-    Data Search Engine
+    Data Search Engine Dengan Teknik Indexing
     <br />
     <a href="https://github.com/MasSakti/Mbuh"><strong>Explore the docs »</strong></a>
     <br />
