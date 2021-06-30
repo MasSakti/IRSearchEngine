@@ -30,10 +30,10 @@
     <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
-  <h3 align="center">Mbuh</h3>
+  <h3 align="center">Search Engine</h3>
 
   <p align="center">
-    Yo Nggak Tau, Kok Tanya Saya?
+    Data Search Engine
     <br />
     <a href="https://github.com/MasSakti/Mbuh"><strong>Explore the docs »</strong></a>
     <br />
